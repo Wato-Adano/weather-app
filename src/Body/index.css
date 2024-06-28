@@ -1,0 +1,12 @@
+.narvbar-text{
+    display: flex;
+    justify-content: space-around;
+}
+.body-text{
+    display: flex;
+    justify-content: space-around;
+}
+.text{
+    display: flex;
+    justify-content: space-around;
+}
